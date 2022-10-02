@@ -1,0 +1,47 @@
+.color_container {
+  width: 45%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px auto;
+  padding: 10px 15px;
+
+  background-color: #eee;
+}
+
+.color_span {
+  width: 15px;
+  height: 15px;
+  border: 0.75px solid #000;
+}
+
+.span_text {
+  font-size: 14px;
+  margin: 0;
+}
+.span_general {
+  background-color: #9775fa;
+}
+.span_math {
+  background-color: #ffd43b;
+}
+.span_programing {
+  background-color: #3bc9db;
+}
+.span_physics {
+  background-color: #f783ac;
+}
+.span_it {
+  background-color: #6060e2;
+}
+.span_operation {
+  background-color: #e599f7;
+}
+
+.span_fail {
+  background-color: #f03e3e;
+}
+
+.span_pass {
+  background-color: #40c057;
+}

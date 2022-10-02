@@ -1,0 +1,31 @@
+.it {
+  background-color: #6060e2;
+  color: #fff;
+}
+
+.programing {
+  background-color: #3bc9db;
+}
+.general {
+  background-color: #9775fa;
+}
+.math {
+  background-color: #ffd43b;
+}
+.operation {
+  background-color: #e599f7;
+}
+.physics {
+  background-color: #f783ac;
+  color: #fff;
+}
+
+.fail {
+  background-color: #f03e3e;
+  color: #fff;
+}
+
+.pass {
+  background-color: #40c057;
+  color: #fff;
+}
